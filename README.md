@@ -81,6 +81,7 @@ This project demonstrates a complete end-to-end data science workflow, encompass
 
 ## Acknowledgments
 
-IBM: For providing the course and learning materials.
-Coursera: For the platform to access and complete the course.
-Explore this repository to dive into the complete workflow, methodologies, and innovative techniques employed in this capstone project. Whether you're a data science enthusiast, a space exploration aficionado, or a professional seeking insights into predictive modeling, this project offers something for everyone.
+I would like to express my gratitude to the following organizations for their support and resources throughout this project:
+
+* IBM – For designing and delivering the Applied Data Science Capstone course, as well as providing comprehensive learning materials and hands-on project guidance.
+* Coursera – For offering an accessible and engaging platform through which the course content and practical exercises were delivered.
