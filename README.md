@@ -78,3 +78,9 @@ The Decision Tree Classifier achieved the highest predictive performance, attain
 ## Conclusion
 
 This project demonstrates a complete end-to-end data science workflow, encompassing data collection, cleaning, exploratory analysis, database querying, feature engineering, interactive visualization, and machine learning model development. The final predictive model successfully forecasts Falcon 9 first-stage landing outcomes with high accuracy, providing actionable insights into launch reliability and cost estimation. The findings highlight the effectiveness of data-driven approaches in supporting decision-making within the aerospace industry and competitive launch market.
+
+## Acknowledgments
+
+IBM: For providing the course and learning materials.
+Coursera: For the platform to access and complete the course.
+Explore this repository to dive into the complete workflow, methodologies, and innovative techniques employed in this capstone project. Whether you're a data science enthusiast, a space exploration aficionado, or a professional seeking insights into predictive modeling, this project offers something for everyone.
